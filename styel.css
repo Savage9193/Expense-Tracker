@@ -53,3 +53,22 @@ th {
   background-color: #4caf50;
   color: white;
 }
+
+#total_expense{margin-bottom: 10px;
+  width: 55px;
+  padding: 8px;
+  margin-top: 20px;
+  margin-left: 88%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-shadow: 2px 2px 2px #45a049;
+
+}
+#total_expense:hover {
+  background-color: #45a049;
+}
